@@ -1,0 +1,1 @@
+# lnq_nvim_configuaration
